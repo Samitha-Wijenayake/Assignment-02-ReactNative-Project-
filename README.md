@@ -48,3 +48,8 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+**Clone the Repository**:
+   ```bash
+   git clone https://github.com/Samitha-Wijenayake/Assignment-02-ReactNative-Project-.git
+   ```
